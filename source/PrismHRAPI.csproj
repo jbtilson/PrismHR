@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <VersionPrefix>2.0.8</VersionPrefix>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -8,7 +9,7 @@
     <Authors>John Bush</Authors>
     <Description>Prism HR API connector</Description>
     <Copyright>(c) 2025 Tilson HR, Inc.</Copyright>
-    <VersionPrefix>2.0.7</VersionPrefix>
+    <RepositoryUrl>https://github.com/jbtilson/PrismHR</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
