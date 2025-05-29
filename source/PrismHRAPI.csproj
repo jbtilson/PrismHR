@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <VersionPrefix>2.0.8</VersionPrefix>
@@ -10,6 +10,7 @@
     <Description>Prism HR API connector</Description>
     <Copyright>(c) 2025 Tilson HR, Inc.</Copyright>
     <RepositoryUrl>https://github.com/jbtilson/PrismHR</RepositoryUrl>
+    <UserSecretsId>37b240ab-a358-4744-a7e4-f31c402aff02</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
